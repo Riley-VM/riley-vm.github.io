@@ -1,1 +1,1 @@
-This is just the repository for my github site
+moved to https://git.gay/Riley_VM/pages
