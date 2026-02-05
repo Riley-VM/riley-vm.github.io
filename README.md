@@ -1,1 +1,1 @@
-moved to [here](https://git.gay/Riley/pages)
+moved to [here](https://git.gay/Ri/pages)
